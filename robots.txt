@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://series-sanook.github.io/sitemap.xml
