@@ -6,4 +6,4 @@ Disallow: /
 
 User-agent: *
 Allow: /
-Sitemap: undefined/sitemap.xml
+Sitemap: https://series-sanook.github.io/sitemap.xml
