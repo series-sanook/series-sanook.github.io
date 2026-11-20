@@ -1,9 +1,3 @@
-User-agent: meta-externalagent
-Disallow: /
-
-User-agent: FacebookBot
-Disallow: /
-
 User-agent: *
 Allow: /
 Sitemap: https://series-sanook.github.io/sitemap.xml
